@@ -1,3 +1,3 @@
 # 15thPendleton
 15th MEU Camp Pendleton Project
-Readme
+Please don't place things in the master folder.
